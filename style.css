@@ -1,0 +1,118 @@
+body {
+  color: #810000;
+  background-color: #f8f5f1;
+  margin: 0;
+  text-align: center;
+  font-family: 'Kiwi Maru', serif;
+}
+
+h1 {
+  color: #810000;
+  font-size: 60px;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+.top-container {
+  background-color: #e2bcb7;
+  position: relative;
+  padding: 50px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #e2bcb7;
+  padding: 20px 0;
+}
+
+a {
+  color: #810000;
+  font-family: 'Kiwi Maru', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f7f3e9;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.monk {
+  height: 500px;
+  width: 500px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+hr {
+  border: dotted #e2bcb7 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 30px;
+}
+
+.air-bending {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.mouth {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro {
+  margin: auto;
+  width: 50%;
+}
+
+.location {
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: 'Kiwi Maru', serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #810000;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #e2bcb7;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
